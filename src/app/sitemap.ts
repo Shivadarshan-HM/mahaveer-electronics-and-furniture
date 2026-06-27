@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next'
 
-const BASE_URL = 'https://mahaveer-electronics-and-furniture.vercel.app/' // ← Replace with your actual domain
+const BASE_URL = 'https://mahaveer-electronics-and-furniture.vercel.app' // ← Replace with your actual domain
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
